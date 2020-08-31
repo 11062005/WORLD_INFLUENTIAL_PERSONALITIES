@@ -1,0 +1,54 @@
+body {
+		
+		height: 100vh;
+		padding: 15px;
+		margin: 0px;
+		background-color: aqua;
+
+		
+}
+
+.container {
+	border: 10px solid red;
+	width: 95vw;
+	height: 90vh;
+	background-color: yellow;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 10px; 
+
+
+}
+.beadbox {
+	width: 40vw;
+	height: 40vh;
+	border-radius: 20px; 
+
+}
+h1 {
+	color: red;
+}
+p {
+	font-size: 23px;
+	color: green
+}
+.box {
+	border: 10px solid red;
+	width: 96vw;
+	height: 110vh;
+	background-color: yellow;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	
+	border-radius: 50px;
+
+}
+.beatbox {
+border-color: 10px solid red;
+}
+
+
